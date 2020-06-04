@@ -13,10 +13,10 @@ read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
-sleep 1
-echo "Login  => $nomer";
+sleep 1 
+echo "Login  => $nomer";+628811986257
 sleep 0.5
-echo "Target => $target";
+echo "Target => $target";+6289524327415
 sleep 0.5
 echo "[+] Exploiting...";
 echo "Nomer => $nomer" >> kontol.html;
